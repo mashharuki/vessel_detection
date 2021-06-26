@@ -1,0 +1,119 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+bulk_carrier_1.jpg,640,283,bulk carrier,93,144,507,214
+bulk_carrier_10.jpg,640,427,bulk carrier,113,148,610,319
+bulk_carrier_2.jpg,640,340,bulk carrier,10,47,629,280
+bulk_carrier_3.jpg,640,354,bulk carrier,128,31,320,256
+bulk_carrier_4.jpg,640,279,bulk carrier,75,100,532,194
+bulk_carrier_4.jpg,640,279,tug_boat,240,143,324,198
+bulk_carrier_4.jpg,640,279,tug_boat,566,160,612,191
+bulk_carrier_5.jpg,640,333,bulk carrier,19,19,626,285
+bulk_carrier_6.jpg,640,427,bulk carrier,161,77,541,284
+bulk_carrier_6.jpg,640,427,tug_boat,48,163,163,295
+bulk_carrier_6.jpg,640,427,tug_boat,534,218,581,280
+bulk_carrier_7.jpg,640,426,bulk carrier,85,148,597,315
+bulk_carrier_7.jpg,640,426,tug_boat,227,228,351,309
+bulk_carrier_8.jpg,640,395,bulk carrier,181,68,506,353
+bulk_carrier_9.jpg,640,203,bulk carrier,27,51,613,180
+container_ship_1.jpg,640,427,container_ship,77,95,574,357
+container_ship_1.jpg,640,427,cruise_ship,563,281,626,307
+container_ship_10.jpg,640,480,container_ship,79,65,525,436
+container_ship_10.jpg,640,480,boat,90,88,109,103
+container_ship_2.jpg,640,427,container_ship,16,148,602,280
+container_ship_3.jpg,640,427,container_ship,90,71,523,357
+container_ship_4.jpg,640,420,container_ship,84,59,563,316
+container_ship_5.jpg,640,427,container_ship,69,151,602,245
+container_ship_6.jpg,640,427,container_ship,63,185,603,283
+container_ship_7.jpg,640,480,container_ship,92,179,550,288
+container_ship_8.jpg,640,480,container_ship,48,178,595,283
+container_ship_9.jpg,640,434,container_ship,29,95,614,345
+cruise_ship_1.jpg,640,480,boat,231,215,298,243
+cruise_ship_1.jpg,640,480,boat,512,211,542,229
+cruise_ship_1.jpg,640,480,cruise_ship,24,113,594,232
+cruise_ship_10.jpg,640,360,cruise_ship,80,136,583,302
+cruise_ship_10.jpg,640,360,boat,539,271,570,289
+cruise_ship_10.jpg,640,360,boat,574,284,599,316
+cruise_ship_10.jpg,640,360,boat,44,153,60,163
+cruise_ship_2.jpg,640,480,cruise_ship,63,173,614,421
+cruise_ship_3.jpg,640,480,cruise_ship,1,58,476,330
+cruise_ship_3.jpg,640,480,boat,3,276,189,373
+cruise_ship_4.jpg,640,360,cruise_ship,79,126,383,285
+cruise_ship_4.jpg,640,360,boat,436,151,558,188
+cruise_ship_5.jpg,640,360,cruise_ship,39,131,574,252
+cruise_ship_6.jpg,640,426,cruise_ship,116,164,580,333
+cruise_ship_7.jpg,640,426,cruise_ship,125,170,558,265
+cruise_ship_8.jpg,640,426,cruise_ship,69,123,439,365
+cruise_ship_9.jpg,640,360,cruise_ship,30,118,634,245
+fishing_boat_1.jpg,640,480,fishing_boat,98,45,587,360
+fishing_boat_10.jpg,640,427,fishing_boat,49,3,587,423
+fishing_boat_10.jpg,640,427,boat,322,10,420,169
+fishing_boat_10.jpg,640,427,boat,429,2,528,160
+fishing_boat_2.jpg,640,480,fishing_boat,51,81,549,361
+fishing_boat_3.jpg,640,467,fishing_boat,185,60,500,291
+fishing_boat_4.jpg,640,480,fishing_boat,235,16,455,324
+fishing_boat_5.jpg,640,469,boat,27,79,56,162
+fishing_boat_5.jpg,640,469,fishing_boat,93,52,182,171
+fishing_boat_5.jpg,640,469,boat,466,145,484,154
+fishing_boat_5.jpg,640,469,fishing_boat,211,97,464,273
+fishing_boat_6.jpg,640,480,boat,73,313,166,375
+fishing_boat_6.jpg,640,480,fishing_boat,164,47,550,398
+fishing_boat_7.jpg,640,480,fishing_boat,95,60,527,351
+fishing_boat_8.jpg,640,416,fishing_boat,178,112,418,271
+fishing_boat_9.jpg,427,640,fishing_boat,138,63,305,459
+LNG_ship_1.jpg,560,406,LNG_ship,23,176,551,307
+LNG_ship_10.jpg,640,360,LNG_ship,32,82,486,171
+LNG_ship_2.jpg,640,480,LNG_ship,38,158,419,440
+LNG_ship_3.jpg,640,419,LNG_ship,235,192,451,228
+LNG_ship_4.jpg,640,425,LNG_ship,66,229,272,265
+LNG_ship_5.jpg,640,391,LNG_ship,299,162,539,287
+LNG_ship_6.jpg,640,426,LNG_ship,68,38,617,328
+LNG_ship_7.jpg,640,426,LNG_ship,62,103,390,254
+LNG_ship_8.jpg,640,353,LNG_ship,203,135,357,173
+LNG_ship_9.jpg,640,359,LNG_ship,69,86,623,242
+PCC_1.jpg,640,379,PCC,29,100,606,264
+PCC_10.jpg,640,480,PCC,81,130,372,322
+PCC_10.jpg,640,480,PCC,439,249,485,301
+PCC_10.jpg,640,480,PCC,370,204,445,310
+PCC_2.jpg,640,386,PCC,68,150,576,260
+PCC_3.jpg,640,428,PCC,30,75,608,366
+PCC_4.jpg,640,426,PCC,48,209,394,288
+PCC_4.jpg,640,426,boat,264,254,355,305
+PCC_5.jpg,640,426,PCC,51,60,612,341
+PCC_6.jpg,640,427,PCC,21,171,623,287
+PCC_7.jpg,640,233,PCC,26,71,598,199
+PCC_8.jpg,640,424,PCC,22,121,536,349
+PCC_9.jpg,640,480,PCC,21,97,639,307
+tanker_1.jpg,640,480,tanker,37,180,601,316
+tanker_10.jpg,640,384,tanker,61,140,597,279
+tanker_2.jpg,640,402,tanker,107,22,536,357
+tanker_3.jpg,640,288,tanker,32,89,554,202
+tanker_3.jpg,640,288,tug_boat,563,165,613,202
+tanker_4.jpg,640,173,tanker,53,19,628,123
+tanker_5.jpg,640,271,tanker,4,140,176,168
+tanker_5.jpg,640,271,tanker,185,138,310,167
+tanker_5.jpg,640,271,container_ship,312,135,451,162
+tanker_5.jpg,640,271,bulk carrier,492,136,622,162
+tanker_6.jpg,640,333,container_ship,60,163,596,227
+tanker_6.jpg,640,333,tanker,70,157,573,263
+tanker_7.jpg,640,371,tanker,19,94,585,311
+tanker_8.jpg,640,167,tug_boat,272,93,300,116
+tanker_8.jpg,640,167,cruise_ship,258,85,382,111
+tanker_8.jpg,640,167,tanker,18,92,187,116
+tanker_8.jpg,640,167,tanker,463,94,551,116
+tanker_9.jpg,640,298,tanker,124,61,585,233
+tanker_9.jpg,640,298,tug_boat,69,139,124,227
+tug_boat_1.jpg,640,480,tug_boat,100,221,525,425
+tug_boat_10.jpg,640,411,tug_boat,241,135,567,378
+tug_boat_10.jpg,640,411,boat,113,259,198,284
+tug_boat_2.jpg,480,640,tug_boat,78,339,445,582
+tug_boat_3.jpg,640,480,tug_boat,158,40,536,245
+tug_boat_4.jpg,640,480,tug_boat,352,195,450,263
+tug_boat_4.jpg,640,480,tug_boat,271,287,441,370
+tug_boat_5.jpg,640,427,tug_boat,220,93,616,320
+tug_boat_6.jpg,640,480,tug_boat,259,181,477,292
+tug_boat_7.jpg,500,366,tug_boat,83,273,126,310
+tug_boat_7.jpg,500,366,tug_boat,128,81,343,348
+tug_boat_7.jpg,500,366,bulk carrier,342,246,422,278
+tug_boat_8.jpg,601,640,tug_boat,66,55,555,528
+tug_boat_9.jpg,640,480,tug_boat,192,163,572,335
+tug_boat_9.jpg,640,480,boat,155,307,399,385
+tug_boat_9.jpg,640,480,bulk carrier,134,191,247,225

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cruise_ship</folder>
+	<filename>cruise_ship_22.jpg</filename>
+	<path>C:\Users\avp10\dataset_images\cruise_ship\cruise_ship_22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cruise_ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>99</ymin>
+			<xmax>446</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

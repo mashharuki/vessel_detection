@@ -1,0 +1,26 @@
+<annotation>
+	<folder>container_ship</folder>
+	<filename>container_ship_26.jpg</filename>
+	<path>C:\Users\avp10\dataset_images\container_ship\container_ship_26.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>container_ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>103</ymin>
+			<xmax>565</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>
