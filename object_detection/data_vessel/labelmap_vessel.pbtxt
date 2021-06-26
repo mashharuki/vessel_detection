@@ -1,0 +1,50 @@
+item {
+   id: 1
+   name: 'bulk carrier'
+}
+     
+item {
+   id: 2
+   name:  'tug_boat'
+}
+     
+item {
+   id: 3
+   name:  'boat'
+}
+     
+item {
+   id: 4
+   name:  'LNG_ship'
+}
+     
+item {
+   id: 5
+   name:  'PCC'
+}
+     
+item {
+   id: 6
+   name: 'container_ship'
+}
+
+
+item {
+   id: 7
+   name: 'fishing_boat'
+}
+     
+item {
+   id: 8
+   name:  'cruise_ship'
+}
+     
+item {
+   id: 9
+   name:  'tanker'
+}
+     
+item {
+   id: 10
+   name: 'person'
+}
