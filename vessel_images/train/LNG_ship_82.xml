@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LNG</folder>
+	<filename>LNG_ship_82.jpg</filename>
+	<path>C:\Users\avp10\dataset_images\LNG\LNG_ship_82.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LNG_ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>251</ymin>
+			<xmax>538</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tanker</folder>
+	<filename>tanker_86.jpg</filename>
+	<path>C:\Users\avp10\dataset_images\tanker\tanker_86.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tanker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>53</ymin>
+			<xmax>491</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

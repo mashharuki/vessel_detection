@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>bulk_carrier_194.jpg</filename>
+	<path>C:\Users\haruki\vessel_images\train\bulk_carrier_194.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tug_boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>227</ymin>
+			<xmax>267</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bulk carrier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>162</ymin>
+			<xmax>566</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

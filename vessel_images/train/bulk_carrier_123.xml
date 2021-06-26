@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>bulk_carrier_123.jpg</filename>
+	<path>C:\Users\haruki\vessel_images\train\bulk_carrier_123.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>413</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bulk carrier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>162</ymin>
+			<xmax>596</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

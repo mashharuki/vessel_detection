@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>tanker_20.jpg</filename>
+	<path>C:\Users\haruki\vessel_images\test\tanker_20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tanker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>133</ymin>
+			<xmax>601</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

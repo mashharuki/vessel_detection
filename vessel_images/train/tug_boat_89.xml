@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tug_boat</folder>
+	<filename>tug_boat_89.jpg</filename>
+	<path>C:\Users\avp10\dataset_images\tug_boat\tug_boat_89.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>404</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tug_boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>199</ymin>
+			<xmax>249</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>

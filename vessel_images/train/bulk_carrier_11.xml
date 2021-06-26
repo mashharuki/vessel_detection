@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bulk carrier</folder>
+	<filename>bulk_carrier_11.jpg</filename>
+	<path>C:\Users\avp10\dataset_images\bulk carrier\bulk_carrier_11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>403</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bulk carrier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>140</ymin>
+			<xmax>448</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

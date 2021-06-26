@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>PCC_13.jpg</filename>
+	<path>C:\Users\haruki\vessel_images\test\PCC_13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>428</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PCC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>75</ymin>
+			<xmax>614</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>

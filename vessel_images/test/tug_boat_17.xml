@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>tug_boat_17.jpg</filename>
+	<path>C:\Users\haruki\vessel_images\test\tug_boat_17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tug_boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>77</ymin>
+			<xmax>343</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bulk carrier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>246</ymin>
+			<xmax>422</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

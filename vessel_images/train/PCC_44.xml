@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PCC</folder>
+	<filename>PCC_44.jpg</filename>
+	<path>C:\Users\avp10\dataset_images\PCC\PCC_44.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PCC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>127</ymin>
+			<xmax>544</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

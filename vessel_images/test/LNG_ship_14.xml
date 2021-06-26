@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>LNG_ship_14.jpg</filename>
+	<path>C:\Users\haruki\vessel_images\test\LNG_ship_14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>425</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LNG_ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>226</ymin>
+			<xmax>275</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

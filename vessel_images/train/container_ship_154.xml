@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>container_ship_154.jpg</filename>
+	<path>C:\Users\haruki\vessel_images\train\container_ship_154.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>container_ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>112</ymin>
+			<xmax>625</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>tanker_198.jpg</filename>
+	<path>C:\Users\haruki\vessel_images\train\tanker_198.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>186</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tanker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>68</ymin>
+			<xmax>617</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+</annotation>
